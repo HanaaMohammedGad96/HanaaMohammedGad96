@@ -12,8 +12,11 @@
 ## 💻 Skills
 ![c#](https://img.shields.io/badge/C%23-Csharp-yellowgreen)
 ![javascript](https://img.shields.io/badge/JS-JavaScript-red)
+![typeScript](https://img.shields.io/badge/T-TypeScript-yellowgreen)
+![linq](https://img.shields.io/badge/L-LINQ-yellow)
 ![asp.Net](https://img.shields.io/badge/Asp.Net-Core%20%7C%20MVC-critical)
 ![entityframeWork](https://img.shields.io/badge/EF-Entity%20FrameWork-blue)
+![Razor](https://img.shields.io/badge/R-Razor-red)
 ![nodejs](https://img.shields.io/badge/N-Node.Js-green)
 ![expressjs](https://img.shields.io/badge/EX-Express.Js-blue)
 ![mssql](https://img.shields.io/badge/MSSQL-Microsoft%20SQL%20Server-important)
