@@ -33,6 +33,6 @@
 - 🗃️ Databases: MSSQL, MongoDB
 
 ## 📫 Contact
-If you'd like to get in touch, feel free to reach out to me at 📧 [hanaa.mohammed.gad@gmail.com](mailto:hanaa.mohammed.gad@gmail.com) | ☎️ [+201120478786](tel:+201120478786).
+If you'd like to get in touch, feel free to reach out to me at 📧 [hanaa.mohammed.gad@gmail.com](mailto:hanaa.mohammed.gad@gmail.com).
 
 Thanks for giving me some of your time 😍
