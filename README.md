@@ -16,13 +16,13 @@
 ![linq](https://img.shields.io/badge/L-LINQ-yellow)
 ![asp.Net](https://img.shields.io/badge/Asp.Net-Core%20%7C%20MVC-critical)
 ![entityframeWork](https://img.shields.io/badge/EF-Entity%20FrameWork-blue)
-![abp](https://img.shields.io/badge/EX-Express.Js-blue](https://img.shields.io/badge/Abp-Asp.net%20Boilerplate-orange)
+![abp](https://img.shields.io/badge/Abp-Asp.net%20Boilerplate-orange)
 ![mssql](https://img.shields.io/badge/MSSQL-Microsoft%20SQL%20Server-important)
 ![html5](https://img.shields.io/badge/HTML-HTML5-blueviolet)
 ![css3](https://img.shields.io/badge/Css3-SCSS-ff69b4)
 ![angular](https://img.shields.io/badge/A-Angular-critical)
-![ngrx](https://img.shields.io/badge/R-Razor-red](https://img.shields.io/badge/Ngrx-State%20Management-red)
-![unittesting](https://img.shields.io/badge/N-Node.Js-green](https://img.shields.io/badge/-Angular%20Unit%20Testing-brightgreen)
+![ngrx](https://img.shields.io/badge/Ngrx-State%20Management-red)
+![unittesting](https://img.shields.io/badge/-Angular%20Unit%20Testing-brightgreen)
 ![git](https://img.shields.io/badge/G-Git-orange)
 
 - 👨‍💻 Languages: C#, JavaScript, HTML, CSS
