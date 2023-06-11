@@ -14,7 +14,7 @@
 ![javascript](https://img.shields.io/badge/JS-JavaScript-red)
 ![typeScript](https://img.shields.io/badge/T-TypeScript-yellowgreen)
 ![linq](https://img.shields.io/badge/L-LINQ-yellow)
-![asp.Net](https://img.shields.io/badge/Asp.Net-Core%20%7C%20MVC-critical)
+![asp.Net](https://img.shields.io/badge/Asp.Net-Core%20%7C%20MVC%20%7C%20Web%20Api-yellow)
 ![entityframeWork](https://img.shields.io/badge/EF-Entity%20FrameWork-blue)
 ![abp](https://img.shields.io/badge/Abp-Asp.net%20Boilerplate-orange)
 ![mssql](https://img.shields.io/badge/MSSQL-Microsoft%20SQL%20Server-important)
