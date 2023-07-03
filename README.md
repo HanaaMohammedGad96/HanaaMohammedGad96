@@ -27,8 +27,8 @@
 ![unittesting](https://img.shields.io/badge/-Angular%20Unit%20Testing-brightgreen)
 ![git](https://img.shields.io/badge/G-Git-orange)
 
-- 👨‍💻 Languages: C#, JavaScript, HTML, CSS
-- 🛠️ Frameworks and Libraries: Asp.Net, Asp.Net Core, Entity FrameWork,Node.js, Express.js,  Angular, React.js
+- 👨‍💻 Languages: C#, TypeScript, JavaScript, HTML, and CSS
+- 🛠️ Frameworks and Libraries: Asp.Net Core, Entity Framework, Node.js, Express.js,  Angular Framework, React.js
 - 🛠️ Tools and Technologies: Git, Github & Azure
 - 🗃️ Databases: MSSQL, MongoDB
 
