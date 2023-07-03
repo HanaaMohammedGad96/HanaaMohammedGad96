@@ -3,11 +3,13 @@
 [![Github](https://img.shields.io/badge/G-Github-black)](https://github.com/HanaaMohammedGad96) 
 [![linkedin](https://img.shields.io/badge/L-LinkedIn-informational)](https://www.linkedin.com/in/hanaa-mohammed-5ba798213/)
 
-🚀 I am a Junior Software Engineer with +2 years of experience specializing in Software Development.
+🚀 As a Software Engineer with over 2 years of experience in Software Development, I am eager to embark on a challenging career as a web developer. 
 
-👨‍💻 Seeking a challenging career as a web developer to participate in a reputable organization where I can utilize my knowledge in the field of web development, I'm looking forward to developing and maintaining enterprise-level applications using .NET Core, C#, ASP.NET MVC, Entity Framework, SQL Server and Angular, collaborating with the team to ensure that all code is of high quality, secure, and optimized for performance and utilizing object-oriented design principles and best practices to create reusable components for future development.
+👩‍💻  My goal is to join a reputable organization where I can apply my expertise in web development. I have a good knowledge of technologies such as C#, ASP.NET Core | MVC | Web API, Entity Framework Core, and Microsoft SQL Server. Additionally, JavaScript, TypeScript, and Angular FrameWork.
 
-🔍 I'm keen on Staying up-to-date with the latest trends in web development technologies and techniques to ensure the delivery of high-quality products that meet customer needs.
+💻 I am excited to collaborate with a team to deliver enterprise-level applications of superior quality and security. My approach involves leveraging object-oriented design principles and best practices to create reusable components for future projects.
+
+🔍 Staying up-to-date with the latest trends in web development is a priority for me, ensuring that I can deliver high-quality products that meet and exceed customer expectations.
 
 ## 💻 Skills
 ![c#](https://img.shields.io/badge/C%23-Csharp-yellowgreen)
