@@ -1,5 +1,4 @@
-# Hello 😍,
-# I'm Hanaa Mohammed! 
+# 👋 Hello there! I'm Hanaa Mohammed!
 
 [![Github](https://img.shields.io/badge/G-Github-black)](https://github.com/HanaaMohammedGad96) 
 [![linkedin](https://img.shields.io/badge/L-LinkedIn-informational)](https://www.linkedin.com/in/hanaa-mohammed-5ba798213/)
