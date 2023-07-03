@@ -28,7 +28,7 @@
 ![git](https://img.shields.io/badge/G-Git-orange)
 
 - 👨‍💻 Languages: C#, TypeScript, JavaScript, HTML, and CSS
-- 🛠️ Frameworks and Libraries: Asp.Net Core, Entity Framework, Node.js, Express.js,  Angular Framework, React.js
+- 🛠️ Frameworks and Libraries: Asp.Net Core, Entity Framework, Node.js, Express.js, and Angular Framework
 - 🛠️ Tools and Technologies: Git, Github & Azure
 - 🗃️ Databases: MSSQL, MongoDB
 
