@@ -31,11 +31,6 @@
 - 🛠️ Tools and Technologies: Git, Github & Azure
 - 🗃️ Databases: MSSQL, MongoDB
 
-## 📝 Now I am Learning
-- Clean Architecture Principles and DDD
-- SignalR
-- Unit Testing
-
 ## 📫 Contact
 If you'd like to get in touch, feel free to reach out to me at 📧 [hanaa.mohammed.gad@gmail.com](mailto:hanaa.mohammed.gad@gmail.com).
 
