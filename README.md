@@ -46,4 +46,4 @@ Engineers should own their systems rather than route everything through me. Deci
 
 ---
 
-📧 **hanaa.mohammed.gad@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/hanaa-mohammed-5ba798213/)** · 🌍 Qena, Egypt — open to remote and relocation
+📧 **hanaa.mohammed.gad@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/hanaa-mohammed-5ba798213/)** · 🌍 Egypt — open to remote and relocation
